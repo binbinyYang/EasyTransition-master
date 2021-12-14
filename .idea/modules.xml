@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyTransition.iml" filepath="$PROJECT_DIR$/EasyTransition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyTransition-master.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyTransition-master.iml" group="EasyTransition-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyTransition-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyTransition-master-app.iml" group="EasyTransition-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/EasyTransition-master-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/EasyTransition-master-lib.iml" group="EasyTransition-master/lib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
